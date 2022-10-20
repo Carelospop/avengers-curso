@@ -1,3 +1,6 @@
 # Hello World
 
 ## Hello Pages
+theme: minim
+
+remote_theme: benbalter/retlab
